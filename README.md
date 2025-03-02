@@ -1,9 +1,4 @@
-[link](test.md)
-
-# **David's UX Portfolio**  
 🚀 *Senior UX Designer specializing in healthcare, accessibility, and front-end collaboration*
-
-> **"Designing intuitive, user-centered experiences that drive impact."**
 
 ---
 
@@ -16,10 +11,10 @@
 - Managed a **multi-application design system**, ensuring consistency across U.S. and international markets.  
 👉 **[View Case Study](#)**
 
-### **🛠️ College Research – Accessibility for the Blind**
+### **🛠️ 3rd Eye Lab Research**
 📅 **2 Years** | **UX Research & Physical Prototyping**  
-- Conducted in-depth **user research** with blind participants.
-- Developed an innovative **haptic prototype** to assist with grocery shopping.
+- Conducted in-depth **user research** with low vision participants.
+- Developed features for **haptic prototype** to assist with grocery shopping.
 - Explored **assistive technology solutions** through qualitative interviews and usability testing.  
 👉 **[View Research](#)**
 
@@ -41,9 +36,10 @@
 
 ## **📬 Let’s Connect**
 - 📧 **Email:** [david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com](#)
-- 💻 **GitHub:** [github.com](#)
+- 🔗 **LinkedIn:** [linkedin.com](
+https://www.linkedin.com/in/davidzaremsky)
+- 💻 **GitHub:** [github.com](https://github.com/DavidZaremsky/)
 
 ---
 
-### ⭐ *Seeking a Senior UX Role? Let’s discuss how I can add value to your team!*
+### ⭐ *Seeking a Senior UX Designer? Let’s discuss how I can add value to your team!*
