@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# **David's UX Portfolio**  
+🚀 *Senior UX Designer specializing in healthcare, accessibility, and front-end collaboration*
 
-You can use the [editor on GitHub](https://github.com/DavidZaremsky/davidzaremsky.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> **"Designing intuitive, user-centered experiences that drive impact."**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## **📌 Featured Work**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **🚧 Field Engineer Application**
+📅 **3 Years** | **Hundreds of Wireframes** | **Global Impact**  
+- **Led UX** for a critical healthcare application, enhancing efficiency for field engineers.
+- Designed **high-fidelity prototypes**, service calendars, dashboards, and debriefing tools.
+- Managed a **multi-application design system**, ensuring consistency across U.S. and international markets.  
+👉 **[View Case Study](#)**
 
-```markdown
-Syntax highlighted code block
+### **🛠️ College Research – Accessibility for the Blind**
+📅 **2 Years** | **UX Research & Physical Prototyping**  
+- Conducted in-depth **user research** with blind participants.
+- Developed an innovative **haptic prototype** to assist with grocery shopping.
+- Explored **assistive technology solutions** through qualitative interviews and usability testing.  
+👉 **[View Research](#)**
 
-# Header 1
-## Header 2
-### Header 3
+### **💻 Front-End Engineering & Product Design**
+📅 **6-Month Projects** | **UX + Code Integration**  
+- Designed and implemented **React-based front-end interfaces** for two SaaS products.
+- Built functional prototypes to bridge UX and engineering, ensuring **seamless handoff**.
+- Created **interactive UI components** and collaborated with development teams to refine user experiences.  
+👉 **[View Work](#)**
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## **📂 Resume & Work Samples**
+- 📄 **[📥 Download Resume](#)**
+- 🎨 **[🖼️ UX Design System Examples](#)**
+- 📊 **[📌 Prototyping & Wireframing Showcase](#)**
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+## **📬 Let’s Connect**
+- 📧 **Email:** [david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com](#)
+- 💻 **GitHub:** [github.com](#)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidZaremsky/davidzaremsky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### ⭐ *Seeking a Senior UX Role? Let’s discuss how I can add value to your team!*
