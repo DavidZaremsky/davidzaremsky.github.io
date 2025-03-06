@@ -1,31 +1,27 @@
-🚀 *Senior UX Designer specializing in healthcare, accessibility, and front-end collaboration*
+## **🚀 Senior UX Designer specializing in healthcare, accessibility, and front-end collaboration**
 
----
+### **🧑‍🔧 Field Engineering Application**  
+ **3 Years Leading UX | Core Features Used by Thousands | Standardized Global Workflows**  
 
-## **📌 Featured Work**
-
-### **🚧 Field Engineer Application**
-📅 **3 Years** | **Hundreds of Wireframes** | **Global Impact**  
-- **Led UX** for a critical healthcare application, enhancing efficiency for field engineers.
-- Designed **high-fidelity prototypes**, service calendars, dashboards, and debriefing tools.
-- Managed a **multi-application design system**, ensuring consistency across U.S. and international markets.  
-👉 **[View Case Study](#)**
-
-### **🛠️ 3rd Eye Lab Research**
-📅 **2 Years** | **UX Research & Physical Prototyping**  
-- Conducted in-depth **user research** with low vision participants.
-- Developed features for **haptic prototype** to assist with grocery shopping.
-- Explored **assistive technology solutions** through qualitative interviews and usability testing.  
-👉 **[View Research](#)**
+- Transformed field engineers’ workflows by **reducing inefficiencies and enhancing task completion speed**.  
+- Designed **high-fidelity prototypes** for key features, including a service calendar, performance dashboards, and FDA-mandated debriefing tools.  
+- Managed and expanded a **multi-application design system**, ensuring a consistent and scalable UI across U.S. and international markets.   
+👉 **[View Case Study](field-engineering-app.md)**
 
 ### **💻 Front-End Engineering & Product Design**
-📅 **6-Month Projects** | **UX + Code Integration**  
+ **Frontend Software Engineer** | **UX + Code Integration**  
 - Designed and implemented **React-based front-end interfaces** for two SaaS products.
 - Built functional prototypes to bridge UX and engineering, ensuring **seamless handoff**.
 - Created **interactive UI components** and collaborated with development teams to refine user experiences.  
-👉 **[View Work](#)**
+👉 **[View Work](ux-frontend.md)**
 
----
+### **🤝 Agile Facilitation & UX Leadership**  
+ **Leadership in Agile Teams** | **Boosted Collaboration & UX Integration**  
+- Led **workshops and retrospectives** to align cross-functional teams on product goals.  
+- Introduced **structured frameworks** for prioritizing UX decisions and fostering collaboration.  
+- Streamlined **design handoffs** by improving communication between designers and developers.  
+👉 **[View Case Study](design-facilitator.md)**
+
 
 ## **📂 Resume & Work Samples**
 - 📄 **[📥 Download Resume](#)**
