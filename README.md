@@ -24,7 +24,7 @@
 
 
 ## **📂 Resume & Work Samples**
-- 📄 **[📥 Download Resume](#)**
+- 📄 **[📥 Download Resume](resume.md)**
 - 🎨 **[🖼️ UX Design System Examples](#)**
 - 📊 **[📌 Prototyping & Wireframing Showcase](#)**
 
