@@ -1,4 +1,18 @@
-## **🚀 Senior UX Designer specializing in healthcare, accessibility, and front-end collaboration**
+## **Senior UX Designer | Healthcare, Accessibility & Scalable Enterprise Solutions**  
+
+I’m **David Zaremsky**, a **Senior UX Designer & Researcher** who crafts **intuitive, efficient software** for complex industries.  
+I specialize in **healthcare UX, accessibility, and front-end collaboration**, designing tools that **streamline workflows, reduce errors, and enhance user experience**.  
+
+At GE Healthcare, I led UX for **field engineering applications, created a multi-product design system, and managed a team of designers**, ensuring clarity and consistency across global teams.  
+
+Now, I’m looking for my next challenge—an opportunity where **strategy, research, and UX drive real impact**. I thrive in **cross-functional teams**, turning **complex problems into seamless digital experiences**.  
+
+📩 **Let’s connect** if you’re building something that needs great design.  
+[🔗 See My Work](#portfolio) | [📩 Contact Me](#contact)
+
+## **🛠️ How I Design & Build Better Experiences**  
+
+From **📊 research and 🧑‍🏫 facilitation** to **🎨 prototyping and 💻 front-end collaboration**, I bring **ideas to life** and refine them through **user insights and iteration**. Here’s a look at some of my work:  
 
 ### **🧑‍🔧 Field Engineering Application**  
  **3 Years Leading UX | Core Features Used by Thousands | Standardized Global Workflows**  
