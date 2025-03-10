@@ -2,7 +2,6 @@
 
 📍 Philadelphia, PA | ✉️ [david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/davidzaremsky/)
 
----
 
 ## **UX Designer**
 
