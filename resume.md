@@ -14,16 +14,16 @@ Adept at collaborating across **global teams** to deliver seamless, impactful **
 
 ## **Key Skills**
 
-- UX Design & Research  
-- High-Fidelity Prototyping (Figma, Sketch)  
-- Wireframing & Interaction Design  
-- User Research  
-- Usability Testing  
-- Design Systems Management  
-- User-Centered Design (UCD)  
-- Stakeholder Engagement & Facilitation  
-- Agile & Scrum Methodologies  
-- Design Critique & Iteration  
+- UX Design & Research
+- High-Fidelity Prototyping (Figma, Sketch)
+- Wireframing & Interaction Design
+- User Research & Usability Testing
+- Multi-Application Design System Management
+- User-Centered Design (UCD)
+- Stakeholder Management & Workshop Facilitation
+- Design Critique & Iteration
+- Agile Software Development
+- Collaborative Frontend Knowledge (HTML, CSS, JS, Git)
 
 ---
 
