@@ -9,6 +9,9 @@ category: "Case Study"
 ## Overview  
 FX2 is a critical application for field engineers repairing medical equipment. My work on FX2 focused on user research, design system improvements, and fostering collaboration between UX and engineering teams. My earlier work on AgentX (a dispatching tool) gave me a deep understanding of the broader service ecosystem, allowing me to design with a holistic perspective.  
 
+![Field Engineering repairing MRI](https://cdn-res.keymedia.com/cdn-cgi/image/f=auto/https://www.hrreporter.com/DynamicData/images/img4124_CSE-HealthCareGE.jpg "Field Engineer Repairing MRI")
+
+
 ## Problem  
 Field engineers needed a more efficient way to track tasks, manage repairs, and comply with regulatory requirements. The existing system was fragmented and inconsistent, leading to usability issues and wasted time.  
 

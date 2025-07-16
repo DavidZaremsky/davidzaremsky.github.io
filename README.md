@@ -22,23 +22,26 @@ From **📊 research and 🧑‍🏫 facilitation** to **🎨 prototyping and �
 - Managed and expanded a **multi-application design system**, ensuring a consistent and scalable UI across U.S. and international markets.   
 👉 **[View Case Study](field-engineering-app.md)**
 
-### **💻 Front-End Engineering & Product Design**
- **Frontend Software Engineer** | **UX + Code Integration**  
-- Designed and implemented **React-based front-end interfaces** for two SaaS products.
-- Built functional prototypes to bridge UX and engineering, ensuring **seamless handoff**.
-- Created **interactive UI components** and collaborated with development teams to refine user experiences.  
-👉 **[View Work](ux-frontend.md)**
+### **📱 UX Leadership & Social Impact Design**  
+**Product Designer & Team Lead** | **Pro Bono Health Tech**  
+- Led a cross-functional team to deliver a **React-based prototype** for a health literacy app.  
+- Facilitated **design sprints, user research, and wireframing** to define core product workflows.  
+- Donated over **300 hours of UX strategy and design** through a volunteer consultancy I co-founded.  
+👉 **[View Work](q2q-health.md)**
 
-### **🤝 Agile Facilitation & UX Leadership**  
- **Leadership in Agile Teams** | **Boosted Collaboration & UX Integration**  
-- Led **workshops and retrospectives** to align cross-functional teams on product goals.  
-- Introduced **structured frameworks** for prioritizing UX decisions and fostering collaboration.  
-- Streamlined **design handoffs** by improving communication between designers and developers.  
-👉 **[View Case Study](design-facilitator.md)**
+
+### **🧠 Third Eye Lab (Penn State)**  
+**2 Years UX Research + Hardware Prototyping | NSF Grant | Accessible Shopping Assistant**
+
+- Worked on a **wearable camera + haptics system** that helped blind users locate grocery items independently.  
+- Ran **user research, live trials, and feedback analysis** in collaboration with the National Federation of the Blind.  
+- Modified embedded logic in **C# to test new real-time audio and haptic feedback patterns**.  
+👉 **[View Case Study](third-eye-lab.md)**
+
 
 
 ## **📂 Resume & Work Samples**
-- 📄 **[📥 Download Resume](resume.md)**
+- 📄 **[📥 View Resume](resume.md)**
 - 🎨 **[🖼️ UX Design System Examples](#)**
 - 📊 **[📌 Prototyping & Wireframing Showcase](#)**
 
