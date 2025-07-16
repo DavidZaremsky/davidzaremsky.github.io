@@ -1,89 +1,67 @@
-# **David Zaremsky**
+# DAVID ZAREMSKY
 
-📍 Philadelphia, PA | ✉️ [david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/davidzaremsky/)
+**Senior UX Designer | Healthcare • Accessibility • Enterprise Platforms**  
 
-
-## **UX Designer**
-
-User-focused **Senior UX Designer** with expertise in **healthcare**, **high-fidelity prototyping**, and **global design system management**.  
-Skilled in bridging the gap between **design and engineering** to create **intuitive, scalable solutions** that enhance **user experience** and **compliance**.  
-Leverages **user research** and **iterative design** to drive **efficiency and innovation** in healthcare technology.  
-Adept at collaborating across **global teams** to deliver seamless, impactful **digital experiences**.
+Philadelphia, PA | [david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com) | (412) 818-6550 | [linkedin.com/in/davidzaremsky](http://linkedin.com/in/davidzaremsky)
 
 ---
 
-## **Key Skills**
-
-- UX Design & Research
-- High-Fidelity Prototyping (Figma, Sketch)
-- Wireframing & Interaction Design
-- User Research & Usability Testing
-- Multi-Application Design System Management
-- User-Centered Design (UCD)
-- Stakeholder Management & Workshop Facilitation
-- Design Critique & Iteration
-- Agile Software Development
-- Collaborative Frontend Knowledge (HTML, CSS, JS, Git)
+## SUMMARY  
+Experienced UX Designer with 7+ years in healthcare and enterprise design, focused on building scalable, accessible, and intuitive products. Skilled at driving strategy, building design systems, and leading cross-functional teams. Expert in user research, interaction design, and delivering accessible, compliant experiences in regulated industries. Comfortable leading projects from zero to one and scaling mature products globally.
 
 ---
 
-## **Professional Experience**
-
-### **GE Healthcare** – *Philadelphia, PA*  
-*June 2018 - Present*
-
-#### **Senior UX Interaction Designer** (*March 2022 - Present*)
-
-- Led **UX design** for **two global field engineering applications**, creating **high-fidelity wireframes** and **Figma prototypes** for:  
-  - A **metrics dashboard**, **user calendar**, and an **FDA-compliant debriefing tool**.  
-- Managed **two UX designers**, ensuring **consistent, scalable designs** across **U.S. and international versions**.  
-- Conducted **weekly user research** with **global stakeholders** and **field engineers**, integrating feedback for improved usability.  
-- Boosted **field engineer efficiency** and **user satisfaction**, earning **recognition for an intuitive calendar feature**.  
-
-#### **Digital Project Manager** (*August 2020 - March 2022*)
-
-- Orchestrated **successful IT infrastructure upgrades** on **time and under budget**.  
-- Maintained **project timelines** for stakeholders across **four business functions** and **four regions**.  
-- Led key **upgrade efforts**, including:  
-  - **Defect Triage**, **Stakeholder Review**, and **status updates** to the **CIO and global management team**.  
-
-#### **Digital Technology Leadership Program** (*June 2018 - July 2020*)
-
-##### **Business Analyst & UX Designer**
-
-- Led **successful redesign** of a **GE Healthcare sales application**, conducting:  
-  - **Stakeholder interviews**, **user story development**, and **usability validation**.  
-- Managed an **international team of software developers**, ensuring **on-time delivery** with **modern development practices**.  
-
-##### **Frontend Developer**
-
-- Developed **JavaScript features** for a **GE supply chain application**, used in **factories worldwide**.  
-- Co-wrote **user stories**, reviewed **wireframes**, and planned **releases**.  
-- Improved **code quality** by:  
-  - Removing **deprecated components**, leveraging **modern web development patterns**, and bringing **test coverage to 100%** using **React Testing Library**.  
-
-##### **Agile Transformer**
-
-- Demonstrated **Product Management best practices** across software teams by publishing **guides** and leading **Agile coaching sessions**.  
-- Earned **VP recognition** for efforts in:  
-  - Reducing **time & travel costs** and increasing access to coaching sessions by piloting **Miro’s real-time collaboration software**.  
-
-### **GE Digital Internship** – *Detroit, MI*  
-*June 2017 - August 2017*  
-**Digital Technologist - Employee Profile**  
-
-- Developed **wireframes** for a **new feature**, supporting its **release to 300k+ users**.  
-
-### **GE Digital Internship** – *Richmond, VA*  
-*June 2016 - August 2016*  
-**Full Stack Developer - Ghost Red**  
-
-- Redesigned **web application** using **Angular 6+ and AWS**.  
-- Organized **recruitment events**.  
+## CORE SKILLS  
+- Figma, Sketch, HTML/CSS, Git, Miro  
+- Design Systems, Accessibility (WCAG), Information Architecture  
+- Ethnographic & Remote User Research, Prototyping, Usability Testing  
+- Agile UX, Stakeholder Workshops, Product Strategy  
+- Health Tech, CRM Design, Cross-Functional Collaboration  
 
 ---
 
-## **Education**
+## EXPERIENCE  
 
-🎓 **Bachelor of Science (B.S.) in Information Sciences & Technology**  
-📍 Pennsylvania State University, State College, PA  
+### SENIOR UX DESIGNER – FX2  
+*2023 – 2025*  
+- Led UX design for FX2, an enterprise field engineering platform used by 8,000+ users worldwide to maintain medical devices critical to patient care.  
+- Conducted ethnographic, in-person research by shadowing field engineers on hospital sites to uncover pain points and real-world workflows.  
+- Designed core features including service calendars, dashboards, and FDA-mandated reporting tools.  
+- Built and maintained a scalable cross-product design system adopted globally to ensure consistent, efficient UX.  
+- Managed and mentored two UX designers, establishing design review processes and standards.  
+- Collaborated closely with product and engineering teams to deliver user-centered solutions in a regulated environment.
+
+### UX DESIGNER – FX  
+*2022 – 2023*  
+- Improved usability and functionality of existing healthcare service software through high-fidelity prototypes and iterative design.  
+- Worked directly with developers to ensure design accuracy during handoffs and participated in user interviews and design critiques as part of an agile team.  
+- Promoted to Senior Designer based on ownership, impact, and initiative.
+
+### UX CONSULTANT & DESIGN LEAD – Q2Q Health (Pro Bono Startup Project)  
+*Apr 2020 – Jan 2021*  
+- Provided volunteer UX leadership to a Rhode Island-based health tech startup aiming to reduce adverse drug events through a mobile health literacy app.  
+- Led design thinking facilitation sessions and user research to shape core app workflows and features.  
+- Created wireframes and prototypes communicating an accessible and clear design vision for low-literacy users.  
+- Guided a cross-functional team of 4 volunteers through Lean Product Framework practices to scope and validate the app concept.  
+- Donated over $18,000 worth of UX design and strategic labor supporting this predictive analytics platform for medication safety.
+
+### UX DESIGNER – AgentX (GE DTLP Rotation)  
+*2019*  
+- Led UX for multiple features within GE’s AgentX platform, focusing on global healthcare service operations.  
+- Created detailed user stories to guide feature development and worked closely with developers by reviewing and accepting changes.  
+- Facilitated requirements gathering workshops with stakeholders across regions.  
+- Delivered UI concepts and improvements using lean UX to accelerate product launches.  
+- Recognized for enhancing clarity and simplifying complex workflows through user-centered design.
+
+### UX RESEARCH ASSOCIATE – 3rd Eye Lab  
+*2016 – 2018*  
+- Conducted ethnographic and experimental research on cognitive and attention-related interfaces for assistive technology.  
+- Supported user testing, feedback analysis, and creation of personas and journey maps.  
+- Programmed embedded logic in C# to prototype real-time haptic and audio feedback systems for blind users.  
+- Contributed to publications and academic presentations related to accessible interface design.
+
+---
+
+## EDUCATION  
+**B.S., Information Sciences & Technology**  
+Pennsylvania State University, 2018
