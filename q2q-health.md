@@ -1,5 +1,9 @@
 # Q2Q Health: Designing a Health Literacy App Pro Bono For Social Impact
 
+**Role:** Product Design Consultant  
+**Generation Impact (Volunteer Social Impact Consultancy)** | **9 Months**  
+_Pro bono health literacy app design, design sprints facilitation, prototype development_
+
 ## Overview  
 Q2Q Health was a Rhode Island–based health tech startup focused on helping users—especially older adults—avoid dangerous medication interactions and better understand chronic health conditions like diabetes. The company was founded by nurse-educator Roberta Powell after a near-fatal medication error during her own cancer treatment, inspiring her to create an app that could translate medical data and flag harmful drug combinations ([PBN](https://pbn.com/q2q-app-can-spot-errors-in-medication-dosages), [RIC](https://our.ric.edu/news-events/news/medical-data-isnt-problem-understanding-it)).
 

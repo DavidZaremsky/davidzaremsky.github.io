@@ -50,7 +50,7 @@ Traditional assistive technologies often rely on screens or voice commands and a
 - The project received public attention through media features and peer-reviewed research contributions.
 
 **Read the published research:**  
-[Third Eye: A Shopping Assistant for the Visually Impaired – IEEE Computer, 2017](https://hci.ist.psu.edu/projects/third-eye)
+[Third Eye: A Shopping Assistant for the Visually Impaired – IEEE Computer, 2017](https://sooyeon-lee.github.io/files/2017_third.pdf)
 
 **Project spotlight from Penn State:**  
 [Seeing Without Sight (Penn State Impact)](https://www.psu.edu/impact/story/seeing-without-sight/)
