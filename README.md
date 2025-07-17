@@ -8,6 +8,8 @@ At GE Healthcare, I led UX for **field engineering applications, created a multi
 Now, I’m looking for my next challenge—an opportunity where **strategy, research, and UX drive real impact**. I thrive in **cross-functional teams**, turning **complex problems into seamless digital experiences**.  
 
 **Let’s connect** if you’re building something that needs great design.  
+[View Resume](resume.md)
+[View Portfolio](field-engineering-app.md)
 [Contact Me](mailto:david.zaremsky@gmail.com)
 
 ## **How I Design & Build Better Experiences**  
@@ -38,7 +40,7 @@ From **research and facilitation** to **prototyping and UX–Dev handoff & imple
 👉 **[View Case Study](third-eye-lab.md)**
 
 ## Resume & Work Samples  
-- [View Resume (PDF)](resume.md)  
+- [View Resume](resume.md)  
 
 ## Publications & Media
 
