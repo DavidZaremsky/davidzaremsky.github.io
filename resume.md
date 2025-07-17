@@ -30,10 +30,8 @@ Experienced UX Designer with 7+ years in healthcare and enterprise design, focus
 - Built and maintained a scalable cross-product design system adopted globally to ensure consistent, efficient UX.  
 - Managed team of UX designers, establishing design review processes and standards.  
 - Delivered features (e.g. offline mode) that contributed to $1.5M/year in savings and 82% mobile adoption across LATAM and EMEA.
-
-### UX DESIGNER – Healthcare Field Operations Tool (Existing Product, FX)
-*GE Healthcare | 2022 – 2023*  
-### UX DESIGNER – Healthcare Field Operations Tool (Existing Product, FX)  
+ 
+### UX DESIGNER – Healthcare Field Operations Tool (Existing Product, FX) 
 *GE Healthcare | 2022 – 2023*  
 - Designed usability improvements for GE’s field service platform supporting maintenance of hospital imaging equipment worldwide.  
 - Took ownership of key workflows within an established design system, producing high-fidelity prototypes and detailed specifications for developer handoff.  
