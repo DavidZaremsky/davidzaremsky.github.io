@@ -27,7 +27,7 @@ From **research and facilitation** to **prototyping and UX–Dev handoff & imple
 - Led a cross-functional team to deliver a **React-based prototype** for a health literacy app.  
 - Facilitated **design sprints, user research, and wireframing** to define core product workflows.  
 - Donated over **300 hours of UX strategy and design** through a volunteer consultancy I co-founded.  
-👉 **[View Work](q2q-health.md)**
+👉 **[View Case Study](q2q-health.md)**
 
 ### Third Eye Lab (Penn State)  
 **2 Years UX Research + Hardware Prototyping | NSF Grant | Accessible Shopping Assistant**  

@@ -22,43 +22,48 @@ Experienced UX Designer with 7+ years in healthcare and enterprise design, focus
 
 ## EXPERIENCE  
 
-### SENIOR UX DESIGNER – FX2  
+### SENIOR UX DESIGNER – Healthcare Field Operations Redesign (FX2)  
 *2023 – 2025*  
-- Led UX design for FX2, an enterprise field engineering platform used by 8,000+ users worldwide to maintain medical devices critical to patient care.  
+- Led UX redesign for FX2, an enterprise field engineering platform used by 8,000+ users worldwide to maintain medical devices critical to patient care.  
 - Conducted ethnographic, in-person research by shadowing field engineers on hospital sites to uncover pain points and real-world workflows.  
-- Designed core features including service calendars, dashboards, and FDA-mandated reporting tools.  
+- Designed core features including service calendars, dashboards, compliance workflows, and critical reporting tools.
 - Built and maintained a scalable cross-product design system adopted globally to ensure consistent, efficient UX.  
-- Managed and mentored two UX designers, establishing design review processes and standards.  
-- Collaborated closely with product and engineering teams to deliver user-centered solutions in a regulated environment.
+- Managed team of UX designers, establishing design review processes and standards.  
+- Delivered features (e.g. offline mode) that contributed to $1.5M/year in savings and 82% mobile adoption across LATAM and EMEA.
 
-### UX DESIGNER – FX  
-*2022 – 2023*  
-- Improved usability and functionality of existing healthcare service software through high-fidelity prototypes and iterative design.  
-- Worked directly with developers to ensure design accuracy during handoffs and participated in user interviews and design critiques as part of an agile team.  
-- Promoted to Senior Designer based on ownership, impact, and initiative.
+### UX DESIGNER – Healthcare Field Operations Tool (Existing Product, FX)
+*GE Healthcare | 2022 – 2023*  
+### UX DESIGNER – Healthcare Field Operations Tool (Existing Product, FX)  
+*GE Healthcare | 2022 – 2023*  
+- Designed usability improvements for GE’s field service platform supporting maintenance of hospital imaging equipment worldwide.  
+- Took ownership of key workflows within an established design system, producing high-fidelity prototypes and detailed specifications for developer handoff.  
+- Ran usability testing sessions and design critiques to validate concepts and improve cross-functional decision-making.  
+- Led migration from Sketch to Figma, increasing team velocity and laying the foundation for a more mature design practice.  
+- Promoted to Senior Designer after less than one year—recognized for initiative, cross-team influence, and consistent delivery of impactful design work.
 
-### UX CONSULTANT & DESIGN LEAD – Q2Q Health (Pro Bono Startup Project)  
-*Apr 2020 – Jan 2021*  
+### Product Design Consultant – Q2Q Health (Pro Bono, Early Stage Startup)
+*Generation Impact | 2020 – 2021*  
 - Provided volunteer UX leadership to a Rhode Island-based health tech startup aiming to reduce adverse drug events through a mobile health literacy app.  
 - Led design thinking facilitation sessions and user research to shape core app workflows and features.  
 - Created wireframes and prototypes communicating an accessible and clear design vision for low-literacy users.  
 - Guided a cross-functional team of 4 volunteers through Lean Product Framework practices to scope and validate the app concept.  
 - Donated over $18,000 worth of UX design and strategic labor supporting this predictive analytics platform for medication safety.
 
-### UX DESIGNER – AgentX (GE DTLP Rotation)  
-*2019*  
-- Led UX for multiple features within GE’s AgentX platform, focusing on global healthcare service operations.  
-- Created detailed user stories to guide feature development and worked closely with developers by reviewing and accepting changes.  
-- Facilitated requirements gathering workshops with stakeholders across regions.  
-- Delivered UI concepts and improvements using lean UX to accelerate product launches.  
-- Recognized for enhancing clarity and simplifying complex workflows through user-centered design.
+### UX DESIGNER – Digital Technology Leadership Program  
+*General Electric | 2016 – 2018*
+- Designed and delivered features for a global Salesforce-based tool used to coordinate field engineers across hospital networks.  
+- Created user stories and acceptance criteria to guide development and improve clarity between design and engineering.  
+- Worked directly with developers, reviewing and approving implementation to ensure alignment with design intent.  
+- Facilitated stakeholder workshops across multiple regions to gather requirements and validate designs.  
+- Selected into GE’s competitive Digital Technology Leadership Program (DTLP), focused on cross-functional skill development in enterprise tech environments.
 
-### UX RESEARCH ASSOCIATE – 3rd Eye Lab  
-*2016 – 2018*  
-- Conducted ethnographic and experimental research on cognitive and attention-related interfaces for assistive technology.  
-- Supported user testing, feedback analysis, and creation of personas and journey maps.  
-- Programmed embedded logic in C# to prototype real-time haptic and audio feedback systems for blind users.  
-- Contributed to publications and academic presentations related to accessible interface design.
+**UX RESEARCH ASSOCIATE – Third Eye Lab (NSF-Funded Research)**  
+*Penn State University | 2016 – 2018*  
+- Conducted in-person research with low-vision participants using a wearable assistive device that combined a camera and haptic feedback.  
+- Led experimental trials to explore how haptic and audio signals could support independent grocery shopping.  
+- Made iterative adjustments to embedded C# logic to prototype new feedback behaviors during testing.  
+- Gained early exposure to inclusive design principles, accessibility challenges, and user empathy—an experience that ignited my passion for UX.  
+- Contributed to a National Science Foundation–funded project under HCI expert Dr. John Carroll; participation cited in published IEEE research.
 
 ---
 
