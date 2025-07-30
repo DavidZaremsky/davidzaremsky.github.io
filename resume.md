@@ -1,8 +1,10 @@
 # DAVID ZAREMSKY
 
-**Senior UX Designer | Healthcare • Accessibility • Enterprise Platforms**  
+**Senior UX Designer**  
+Healthcare • Accessibility • Enterprise Platforms
 
-Philadelphia, PA | [david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com) | (412) 818-6550 | [linkedin.com/in/davidzaremsky](http://linkedin.com/in/davidzaremsky)
+Philadelphia, PA  
+[david.zaremsky@gmail.com](mailto:david.zaremsky@gmail.com) | [linkedin.com/in/davidzaremsky](http://linkedin.com/in/davidzaremsky)
 
 ---
 
