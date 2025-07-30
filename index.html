@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>David Zaremsky</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0f1117;
+      color: #e0e0e0;
+      font-family: 'Courier New', monospace;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      line-height: 1.6;
+    }
+
+    .terminal {
+      max-width: 600px;
+      padding: 2rem;
+      background-color: #1a1c23;
+      border-radius: 8px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    }
+
+    .prompt::before {
+      content: "> ";
+      color: #32cd32;
+    }
+
+    a {
+      color: #00afff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .blinker {
+      display: inline-block;
+      width: 10px;
+      background: #e0e0e0;
+      animation: blink 1s infinite;
+      height: 1rem;
+      margin-left: 2px;
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <div class="prompt">Hi, I'm David Zaremsky<span class="blinker"></span></div>
+    <div class="prompt">I design clear, human-friendly tools for complex systems.</div>
+    <br/>
+    <div class="prompt"><a href="resume.md" target="_blank">View Resume</a></div>
+    <div class="prompt"><a href="https://ux.zaremsky.com" target="_blank">Visit Portfolio</a></div>
+  </div>
+</body>
+</html>
